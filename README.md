@@ -9,6 +9,6 @@ I’m interested in becoming starting from Data Engineer till data scientist.
 I’m currently learning various languages for Data Engineering such as MS SQL 
 
 How to reach me:
-                Mobile phone: +7775541233
+                Mobile phone: +77755412334
                 E-mail: yernar.biman@alumni.nu.edu.kz
                 
